@@ -2,7 +2,7 @@
 ## Pico, Pico W and Pico 2 W powered HUB75 Matrix Drivers
 
 This repository is home to the MicroPython firmware and examples for
-Interstate 75, Interstate 75W and Interstate 75 .. 2W?.
+Interstate 75, Interstate 75W and Interstate 75 W (RP2350).
 
 ## Download Firmware
 
